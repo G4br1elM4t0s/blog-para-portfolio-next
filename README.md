@@ -1,7 +1,5 @@
 # Nextra Blog Theme
 
-This portfolio BLOG is built with **Next.js** and [Nextra](https://nextra.vercel.app/). I used the nextra blog theme to built this blog.
-
 ## Feature
 
 * Home page
@@ -44,10 +42,10 @@ This portfolio BLOG is built with **Next.js** and [Nextra](https://nextra.vercel
 ```bash
 
 # Step 1
-git clone https://github.com/frontendweb3/nextra-blog.git
+https://github.com/G4br1elM4t0s/blog-para-portfolio-next.git
 
 # Step 2
-cd nextra-blog
+cd blog-para-portfolio-next
 
 
 # Step 3
